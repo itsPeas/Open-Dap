@@ -22,5 +22,6 @@ To clone this project simply:
 6: Thats it!
 
 __Notice: Dispite the engine this game uses NO ai in anyway or form. this is purely a passion project not driven by "Vibe" codeing__ 
+Open dap is not to be confused with OPeNDAP*
 
 If you wish to get in contact with me. Send me a dm on discord! @ItsPeas or on Gamejolt also @ItsPeas
