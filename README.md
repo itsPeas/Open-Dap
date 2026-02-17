@@ -1,6 +1,6 @@
 This Project aims to make an open source version of Deip.io
 
-<img width="526" height="530" alt="Open Dep Logo" src="https://github.com/user-attachments/assets/000f0e54-c1c0-401e-842e-cc64b69e49bd" />
+<img width="426" height="430" alt="Open Dep Logo" src="https://github.com/user-attachments/assets/000f0e54-c1c0-401e-842e-cc64b69e49bd" />
 
 
 __This project is not in any way endorsed by 3am studios. 
